@@ -1,4 +1,5 @@
 ## Hi there 👋
+![logo](https://github.com/saltyyboii/saltyyboii/blob/main/profile.jpg?raw=true)
 
 <!--
 **saltyyboii/saltyyboii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
