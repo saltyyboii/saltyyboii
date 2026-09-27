@@ -1,6 +1,12 @@
-<h1 align="centre">  Hi, I'm Naman a.k.a SaltyBoi👋</h1>
-![logo](https://github.com/saltyyboii/saltyyboii/blob/main/profile.jpg?raw=true)
-Solving DSA, writing code, and occasionally remembering to push it.
+<h1 align="center">Hi, I'm Naman a.k.a SaltyBoi 👋</h1>
+
+<p align="center">
+  <img src="https://github.com/saltyyboii/saltyyboii/blob/main/profile.jpg?raw=true" alt="logo">
+</p>
+
+<p align="center">
+  Solving DSA, writing code, and occasionally remembering to push it.
+</p>
 
 
 <!--
