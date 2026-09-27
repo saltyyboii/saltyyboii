@@ -1,5 +1,7 @@
-## Hi there 👋
+                    Hi, I'm Naman a.k.a SaltyBoi👋
 ![logo](https://github.com/saltyyboii/saltyyboii/blob/main/profile.jpg?raw=true)
+Solving DSA, writing code, and occasionally remembering to push it.
+
 
 <!--
 **saltyyboii/saltyyboii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
