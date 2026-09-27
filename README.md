@@ -1,25 +1,21 @@
 <h1 align="center">Hi, I'm Naman a.k.a SaltyBoi 👋</h1>
 
 <p align="center">
-  <img src="https://github.com/saltyyboii/saltyyboii/blob/main/profile.jpg?raw=true" alt="logo">
+  <img src="https://github.com/saltyyboii/saltyyboii/blob/main/profile.jpg?raw=true" width="200">
 </p>
 
 <p align="center">
   Solving DSA, writing code, and occasionally remembering to push it.
 </p>
 
-
-<!--
-**saltyyboii/saltyyboii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="mailto:shahnaman321@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/naman-shah-857b27211/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/saltyyboii">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
