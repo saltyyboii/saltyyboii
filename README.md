@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Naman a.k.a SaltyBoi 👋</h1>
 
 <p align="center">
-  <img src="https://github.com/saltyyboii/saltyyboii/blob/main/profile.jpg?raw=true" width="200">
+  <img src="https://github.com/saltyyboii/saltyyboii/blob/main/profile.jpg?raw=true" alt="profile">
 </p>
 
 <p align="center">
