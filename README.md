@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Solving DSA, writing code, and occasionally remembering to push it.
+  Writing code, and occasionally remembering to push it.
 </p>
 
 <p align="center">
