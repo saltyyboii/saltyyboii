@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Naman a.k.a SaltyBoi 👋</h1>
+<h1 align="center">Hi there, I'm Naman👋</h1>
 
 <p align="center">
   <img src="https://github.com/saltyyboii/saltyyboii/blob/main/profile.jpg?raw=true" alt="profile">
